@@ -1,3 +1,3 @@
-# Web-Sitesi-
-kişisel sitem rbcc.site nin kaynak kodları.
-kullanımı için lütfen iletişime geçinşiz
+# Web-Sitesi- RBCC.SİTE
+Kişisel blog sitem rbcc.site nin kaynak kodları.
+Kullanımı için lütfen iletişime geçiniz.
